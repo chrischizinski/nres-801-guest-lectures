@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "classes/nres-801/index.html",
+    "href": "classes/nres-801/index.html",
+    "title": "NRES 801",
+    "section": "",
+    "text": "2026"
+  },
+  {
+    "objectID": "classes/nres-801/index.html#years",
+    "href": "classes/nres-801/index.html#years",
+    "title": "NRES 801",
+    "section": "",
+    "text": "2026"
+  },
+  {
     "objectID": "classes/nres-801/2026-11-12/thursday_paper_discussion.html",
     "href": "classes/nres-801/2026-11-12/thursday_paper_discussion.html",
     "title": "Paper Discussion: Identity, Conflict, and Engagement in Wolf Reintroduction",
@@ -65,16 +79,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NRES 801 Guest Lectures",
+    "title": "Guest Lectures",
     "section": "",
-    "text": "Open the stakeholder engagement lecture\n\n\n\nOpen the comparative paper discussion"
+    "text": "NRES 801"
   },
   {
-    "objectID": "index.html#november-2026",
-    "href": "index.html#november-2026",
-    "title": "NRES 801 Guest Lectures",
+    "objectID": "index.html#courses",
+    "href": "index.html#courses",
+    "title": "Guest Lectures",
     "section": "",
-    "text": "Open the stakeholder engagement lecture\n\n\n\nOpen the comparative paper discussion"
+    "text": "NRES 801"
   },
   {
     "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#the-vote-set-a-goal-not-an-implementation-plan",
@@ -154,25 +168,11 @@
     "text": "Discussion: design the decision space\nFor the wolf plan, consider release timing, conflict prevention, monitoring priorities, or response thresholds.\n\n\nChoose one decision. Which engagement method fits its timing and stakes, and what level of influence should participants have?\n\n\nBefore options are set?\nWhile recommendations are formed?\nAfter the agency decides?\n\n\nTime: 12 minutes. Second facilitated whole-room discussion. Allow two minutes to select a decision; spend six minutes recommending and defending an engagement method; use the final four minutes to challenge or revise the level of influence. Keep formal agency authority clear. Let students build on one another’s responses rather than dividing into groups. Source: Gonzalez, Quartuch, and Niemiec (2025).\n\n\nSource: Gonzalez, Quartuch, and Niemiec (2025)"
   },
   {
-    "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#discussion-test-a-proposed-process",
-    "href": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#discussion-test-a-proposed-process",
+    "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#what-evidence-would-show-engagement-influenced-a-decision",
+    "href": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#what-evidence-would-show-engagement-influenced-a-decision",
     "title": "Who Gets to Shape an Ecological Intervention?",
-    "section": "Discussion: test a proposed process",
-    "text": "Discussion: test a proposed process\nSuppose the agency proposes an advisory group, public comment, and local listening sessions for wolf management.\n\n\nWhere is this proposed process most likely to fail for the people it aims to involve?\n\n\nWho may be unable to take part?\nWhat could make participation costly or unsafe?\nHow will the agency show how input affected options?\nHow will it explain a decision that does not follow suggestions?\n\n\nTime: 6 minutes. Lead a full-room stress test of the proposed process. Trace the path from being invited to having input reach decision-makers and receiving a response. Ask students to name the likeliest failure point and one practical change that would address it. Keep this focused on access and process mechanics; the following slide takes up how to measure influence."
-  },
-  {
-    "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#measure-each-link-not-just-the-endpoint",
-    "href": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#measure-each-link-not-just-the-endpoint",
-    "title": "Who Gets to Shape an Ecological Intervention?",
-    "section": "Measure each link, not just the endpoint",
-    "text": "Measure each link, not just the endpoint\nFor any claimed outcome, specify:\n\nThe construct and unit of analysis\nWhose perspective is measured\nAn indicator and time point\nA plausible alternative explanation\n\n\n\nHow would you know whether engagement influenced a management decision?\n\n\nParticipants’ reported sense of influence\nDocumented changes to options or recommendations\nWhose account is included, and when it is measured\n\n\nTime: 7 minutes. Full-room methods discussion. Compare participants’ reported sense of influence with records of changes to options, recommendations, or decisions. Ask whose account is represented and when to measure it. Distinguish these process indicators from trust and from ecological monitoring; a post-process satisfaction measure alone cannot establish causal impact. Source: Gonzalez, Quartuch, and Niemiec (2025).\n\n\nSource: Gonzalez, Quartuch, and Niemiec (2025)"
-  },
-  {
-    "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#discussion-what-evidence-would-change-your-advice",
-    "href": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#discussion-what-evidence-would-change-your-advice",
-    "title": "Who Gets to Shape an Ecological Intervention?",
-    "section": "Discussion: what evidence would change your advice?",
-    "text": "Discussion: what evidence would change your advice?\n\nFor each outcome, what would you advise next, and what evidence is still missing?\n\n\nParticipants report learning but remain opposed to the plan.\nPublic support rises, but directly affected groups feel excluded.\nThe process is trusted, but ecological indicators do not improve.\n\n\nTime: 7 minutes. Facilitate a whole-room discussion across the three scenarios. Ask students to state what additional evidence they would need before recommending a change. Make the connections explicit: social outcomes can affect feasibility and implementation, while ecological outcomes still require ecological evidence. Neither type substitutes for the other."
+    "section": "What evidence would show engagement influenced a decision?",
+    "text": "What evidence would show engagement influenced a decision?\nSuppose the agency uses an advisory group, public comment, and local listening sessions for wolf management.\n\n\nWhat evidence would convince you that stakeholder input influenced a specific management decision?\n\n\nWho participated, and whose perspectives may be missing?\nParticipants’ reported sense of influence\nDocumented changes to options or recommendations\nWhose account is measured, when, and what else could explain the change?\n\n\nTime: 12 minutes. Third facilitated whole-room discussion. Compare participants’ reported influence with records of changes to options, recommendations, or decisions. Ask whose perspective is absent and when evidence should be collected. Distinguish process indicators from trust and ecological monitoring; a satisfaction measure alone cannot establish that engagement changed a decision. Source: Gonzalez, Quartuch, and Niemiec (2025).\n\n\nSource: Gonzalez, Quartuch, and Niemiec (2025)"
   },
   {
     "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#thursday-compare-the-two-colorado-studies",
@@ -182,11 +182,11 @@
     "text": "Thursday: compare the two Colorado studies\n\nEngagement expectations (2025): Gonzalez et al. studied stakeholder expectations during planning.\nIdentity-linked conflict (2024): Gonzalez et al. analyzed narratives before the vote.\n\nTogether: process expectations and conflict narratives offer distinct evidence.\n\nTime: 4 minutes. Preview the comparison students will develop on Thursday: methods, populations, timing, constructs, and supported inferences. The optional Metcalf and Angle (2026) experiment adds a third method and broader wolf-attitude context. None evaluates ecological effects of the reintroduction. Source: Gonzalez, Quartuch, and Niemiec (2024, 2025).\n\n\nSource: Gonzalez, Quartuch, and Niemiec (2024, 2025)"
   },
   {
-    "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#reading-questions",
-    "href": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#reading-questions",
+    "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#prepare-for-thursdays-paper-discussion",
+    "href": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#prepare-for-thursdays-paper-discussion",
     "title": "Who Gets to Shape an Ecological Intervention?",
-    "section": "Reading questions",
-    "text": "Reading questions\n\nWhat can each study claim from its sampling and design?\nHow do identity and perceived influence appear in the evidence?\nWhat can an agency learn from these findings?\nWhat would require new data?\n\n\nTime: 3 minutes. Preview Thursday’s paper discussion. Have each student choose one methods question and one management implication to bring to class. The discussion guide uses a whole-room format designed for a small graduate seminar."
+    "section": "Prepare for Thursday’s paper discussion",
+    "text": "Prepare for Thursday’s paper discussion\nFor Thursday, bring:\n\nOne passage or finding from each paper\nA note on each study’s sampling, design, and strongest supported inference\nOne management implication and the evidence still needed to support it\n\n\nTime: 2 minutes. Preview the preparation task. Students should bring one methods or inference point and one management implication to the paper discussion. The Thursday guide uses a whole-room format for a small graduate seminar."
   },
   {
     "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#close-connect-people-decisions-and-ecology",
@@ -203,17 +203,17 @@
     "text": "Sources\nGonzalez, M. N., Quartuch, M., & Niemiec, R. (2025). Stakeholder engagement for Colorado wolf reintroduction: stakeholder-derived metrics of success. Human Dimensions of Wildlife.\nGonzalez, M. N., Heid, T. N., & Niemiec, R. (2024). Characterizing social conflict over wolf reintroduction in Colorado: a theoretical model of intergroup conflict. People and Nature, 6, 2001–2013.\nMetcalf, A. L., & Angle, J. W. (2026). Effects of political identity activation and inaccurate metaperceptions on attitudes toward wolves. Conservation Biology, 40, e70212."
   },
   {
-    "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#what-evidence-would-show-engagement-influenced-a-decision",
-    "href": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#what-evidence-would-show-engagement-influenced-a-decision",
-    "title": "Who Gets to Shape an Ecological Intervention?",
-    "section": "What evidence would show engagement influenced a decision?",
-    "text": "What evidence would show engagement influenced a decision?\nSuppose the agency uses an advisory group, public comment, and local listening sessions for wolf management.\n\n\nWhat evidence would convince you that stakeholder input influenced a specific management decision?\n\n\nWho participated, and whose perspectives may be missing?\nParticipants’ reported sense of influence\nDocumented changes to options or recommendations\nWhose account is measured, when, and what else could explain the change?\n\n\nTime: 12 minutes. Third facilitated whole-room discussion. Compare participants’ reported influence with records of changes to options, recommendations, or decisions. Ask whose perspective is absent and when evidence should be collected. Distinguish process indicators from trust and ecological monitoring; a satisfaction measure alone cannot establish that engagement changed a decision. Source: Gonzalez, Quartuch, and Niemiec (2025).\n\n\nSource: Gonzalez, Quartuch, and Niemiec (2025)"
+    "objectID": "classes/nres-801/2026/index.html",
+    "href": "classes/nres-801/2026/index.html",
+    "title": "NRES 801 · 2026",
+    "section": "",
+    "text": "Open the stakeholder engagement lecture\n\n\n\nOpen the comparative paper discussion"
   },
   {
-    "objectID": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#prepare-for-thursdays-paper-discussion",
-    "href": "classes/nres-801/2026-11-10/tuesday_stakeholder_engagement.html#prepare-for-thursdays-paper-discussion",
-    "title": "Who Gets to Shape an Ecological Intervention?",
-    "section": "Prepare for Thursday’s paper discussion",
-    "text": "Prepare for Thursday’s paper discussion\nFor Thursday, bring:\n\nOne passage or finding from each paper\nA note on each study’s sampling, design, and strongest supported inference\nOne management implication and the evidence still needed to support it\n\n\nTime: 2 minutes. Preview the preparation task. Students should bring one methods or inference point and one management implication to the paper discussion. The Thursday guide uses a whole-room format for a small graduate seminar."
+    "objectID": "classes/nres-801/2026/index.html#november-2026",
+    "href": "classes/nres-801/2026/index.html#november-2026",
+    "title": "NRES 801 · 2026",
+    "section": "",
+    "text": "Open the stakeholder engagement lecture\n\n\n\nOpen the comparative paper discussion"
   }
 ]
